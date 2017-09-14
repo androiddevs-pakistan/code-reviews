@@ -1,0 +1,16 @@
+## Description
+
+* Describe what was implemented 
+
+## To test
+
+* Describe steps about how to test 
+
+## Checklist
+
+- [ ] Logically structured commits
+- [ ] Tests added
+- [ ] Tested on device
+- [ ] No regressions (no crashes or critical bugs)
+
+Good job, you made a kick-ass Pull Request. Now go find somebody to review it. :+1:
